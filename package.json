@@ -1,6 +1,10 @@
 {
-  "name": "test",
-  "lockfileVersion": 2,
-  "requires": true,
-  "packages": {}
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v18.13.0",
+    "npm": "9.4.0",
+    "yarn": "1.19.1"
+  }
 }
