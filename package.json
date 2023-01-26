@@ -1,7 +1,5 @@
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com"
-},
-  "name": "myapp",
+
+{ "name": "myapp",
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
